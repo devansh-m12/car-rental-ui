@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Model S",
+    "brand": "Tesla",
+    "image": "https://example.com/images/tesla-model-s.jpg",
+    "bannerImage": "https://example.com/banners/tesla-model-s-banner.jpg",
+    "price": 79900
+  },
+  {
+    "name": "Camry",
+    "brand": "Toyota",
+    "image": "https://example.com/images/toyota-camry.jpg",
+    "bannerImage": "https://example.com/banners/toyota-camry-banner.jpg",
+    "price": 25900
+  },
+  {
+    "name": "Civic",
+    "brand": "Honda",
+    "image": "https://example.com/images/honda-civic.jpg",
+    "bannerImage": "https://example.com/banners/honda-civic-banner.jpg",
+    "price": 23900
+  },
+  {
+    "name": "F-150",
+    "brand": "Ford",
+    "image": "https://example.com/images/ford-f150.jpg",
+    "bannerImage": "https://example.com/banners/ford-f150-banner.jpg",
+    "price": 35900
+  }
+]
